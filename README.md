@@ -10,13 +10,13 @@ git-dev-lang-markup-markdown
 
 Filelist  
 ========  
-glossary.txt  
+* glossary.txt  
   &nbsp;&nbsp;&nbsp;&nbsp;Glossary for Markdown  
 
-links.txt  
+* links.txt  
   &nbsp;&nbsp;&nbsp;&nbsp;Markdown related links
 
-markdown.txt  
+* markdown.txt  
   Markdown is a lightweight markup language with plain text formatting syntax
   designed so that it can be converted to HTML and many other formats using a
   tool by the same name.  Markdown is often used to format readme files, for
