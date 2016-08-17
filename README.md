@@ -6,3 +6,20 @@ Copyright (C) 2016 by Raymond E. Marcil &lt;marcilr@gmail.com&gt;
 
 # GitHub
 git-dev-lang-markup-markdown
+
+
+Filelist  
+========  
+glossary.txt  
+  &nbsp;&nbsp;&nbsp;&nbsdp;Glossary for Markdown  
+
+links.txt  
+  &nbsp;&nbsp;&nbsp;&nbsp;Markdown related links
+
+markdown.txt  
+  Markdown is a lightweight markup language with plain text formatting syntax
+  designed so that it can be converted to HTML and many other formats using a
+  tool by the same name.  Markdown is often used to format readme files, for
+  writing messages in online discussion forums, and to create rich text using a
+  plain text editor.  
+  http://en.wikipedia.org/wiki/Markdown
