@@ -21,10 +21,10 @@ Filelist
 Glossary for Markdown  
 
 * [links.txt](https://github.com/marcilr/git-dev-lang-markup-markdown/blob/master/links.txt)  
-Markdown related links
+Markdown related links  
 
 * [markdown.txt](https://github.com/marcilr/git-dev-lang-markup-markdown/blob/master/markdown.txt)  
-http://en.wikipedia.org/wiki/Markdown
+Markdown lightweight markup language  
 
 Links  
 =====  
