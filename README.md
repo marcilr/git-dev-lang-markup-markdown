@@ -17,7 +17,7 @@ git-dev-lang-markup-markdown
 
 Filelist  
 ========  
-* glossary.txt  
+* [glossary.txt](https://github.com/marcilr/git-dev-lang-markup-markdown/blob/master/glossary.txt)  
 Glossary for Markdown  
 
 * links.txt  
