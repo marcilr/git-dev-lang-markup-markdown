@@ -20,10 +20,10 @@ Filelist
 * [glossary.txt](https://github.com/marcilr/git-dev-lang-markup-markdown/blob/master/glossary.txt)  
 Glossary for Markdown  
 
-* links.txt  
+* [links.txt](https://github.com/marcilr/git-dev-lang-markup-markdown/blob/master/links.txt)  
 Markdown related links
 
-* markdown.txt  
+* [markdown.txt](https://github.com/marcilr/git-dev-lang-markup-markdown/blob/master/markdown.txt)  
 http://en.wikipedia.org/wiki/Markdown
 
 Links  
