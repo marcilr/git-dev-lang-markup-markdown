@@ -1,0 +1,106 @@
+links.txt
+Created Fri Apr 10 08:05:18 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Markdown related links
+
+
+Links
+=====
+[4] Zen Mode (fullscreen) writing
+"Zen Mode allows you to write markdown in fullscreen mode.
+You'll find the Zen Mode button on comment, issue, and pull
+request forms across the site."
+https://help.github.com/articles/writing-on-github/
+
+Dingus
+Markdown online tool
+http://daringfireball.net/projects/markdown/dingus
+
+GitHub Flavored Markdown
+GitHub uses "GitHub Flavored Markdown," or GFM, across the site--in issues,
+comments, and pull requests.  It differs from standard Markdown (SM) in a few
+significant ways, and adds some additional functionality.
+https://help.github.com/articles/github-flavored-markdown/
+
+GitHub Flavored Markdown: A Quick Overview
+https://blog.bravi.org/?p=974
+
+github/linguist
+Language Savant.  If your repository's language is being reported incorrectly,
+send us a pull request!
+We use Linguist to perform language detection and syntax highlighting. 
+https://github.com/github/linguist
+
+github/linguist yml file
+You can find out which keywords are valid by perusing the languages YAML file.
+https://github.com/github/linguist/blob/master/lib/linguist/languages.yml
+
+github/markup
+The code we use to render README.your_favorite_markup
+https://github.com/github/markup/tree/master#html-sanitization
+
+Markdown
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Markdown
+
+Markdown Basics                                      <===
+http://daringfireball.net/projects/markdown/basics
+
+Markdown Cheatsheet
+Adam Pritchard edited this page on Feb 26 Â· 94 revisions
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+Markdown Extra
+is a lightweight markup language based on Markdown implemented in PHP
+(originally), Python and Ruby.  It adds features not available with plain
+Markdown syntax. 
+http://en.wikipedia.org/wiki/Markdown_Extra
+
+Markdown home
+by John Gruber
+http://daringfireball.net/projects/markdown/
+
+Markdown syntax
+http://daringfireball.net/projects/markdown/syntax
+
+Markdown license
+http://daringfireball.net/projects/markdown/license
+
+Office syntax guide <===
+http://daringfireball.net/projects/markdown/syntax
+
+Reddit markdown primer.  Or, how do you do all that   <===
+fancy formatting in your comments, anyway?
+https://www.reddit.com/r/reddit.com/comments/6ewgt/reddit_markdown_primer_or_how_do_you_do_all_that/
+
+ReText for Linux
+ReText is a simple but powerful text editor for Markdown and reStructuredText.
+It is written in Python using Qt libraries, able to run on any platforms.
+You can read more about ReText in our FAQ.
+http://sourceforge.net/p/retext/home/ReText/
+
+Render Markdown as HTML
+This script was created to convert Markdown files to usable HTML on-the-fly on
+various web sites I deal with.  It's intended for situations where the web
+server will be serving out Markdown files directly.  It wasn't meant to be
+used with blogging or CMS tools. There are usually plug-ins for that.
+http://projects.skurfer.com/Example.mdown
+
+Tools for Markdown and restructuredText
+by Rafael Goulart
+http://tech.rgou.net/en/doc-tools/ferramentas-para-markdown-and-restructuredtext/
+
+What is Markdown?
+Has a number of good links.
+http://whatismarkdown.com/
+
+Writing on GitHub
+https://help.github.com/articles/writing-on-github
+
+Zen Writing Mode
+"Zen Mode allows you to write markdown in fullscreen mode.
+You'll find the Zen Mode button on comment, issue, and pull
+request forms across the site."[4]
+https://github.com/blog/1379-zen-writing-mode
