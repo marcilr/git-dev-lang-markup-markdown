@@ -23,3 +23,10 @@ markdown.txt
   writing messages in online discussion forums, and to create rich text using a
   plain text editor.  
   http://en.wikipedia.org/wiki/Markdown
+
+Links  
+=====  
+Markdown home  
+by John Gruber  
+http://daringfireball.net/projects/markdown/  
+
