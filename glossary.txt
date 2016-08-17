@@ -1,0 +1,16 @@
+glossary.txt
+Created Fri Apr 10 08:35:10 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Glossary
+
+
+SM - Standard Markdown
+  GitHub Flavored Markdown: A Quick Overview
+  https://blog.bravi.org/?p=974
+
+GFM - GitHub Flavored Markd
+  GitHub Flavored Markdown: A Quick Overview 
+  https://blog.bravi.org/?p=974
+
