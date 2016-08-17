@@ -11,7 +11,7 @@ git-dev-lang-markup-markdown
 Filelist  
 ========  
 glossary.txt  
-  &nbsp;&nbsp;&nbsp;&nbsdp;Glossary for Markdown  
+  &nbsp;&nbsp;&nbsp;&nbsp;Glossary for Markdown  
 
 links.txt  
   &nbsp;&nbsp;&nbsp;&nbsp;Markdown related links
