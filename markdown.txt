@@ -1,0 +1,101 @@
+markdown.txt
+Created Fri Apr 10 08:05:15 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Markdown
+
+
+Markdown is a lightweight markup language with plain text formatting syntax
+designed so that it can be converted to HTML and many other formats using a
+tool by the same name.  Markdown is often used to format readme files, for
+writing messages in online discussion forums, and to create rich text using a
+plain text editor.
+--en.wikipedia.org/wiki/Markdown
+
+Markdown files can be stored as .txt, but you'll also find:
+o .md
+o .mdown
+o .markdown
+
+Having these clues as a file extension will let you easily transform these
+files into others.  Markdown makes it very easy to convert these plaintext
+files into HTML, OpenDocument fiels, PDF, LaTeX or RTF using MultiMarkdown.
+
+And, if you haven't noticed yet, StackExchange uses Markdown for formatting,
+too!
+--superuser.com/questions/310220/what-are-md-files
+
+
+Markdown is a text-to-HTML conversion tool for web writers.   Markdown allows
+you to write using an easy-to-read, easy-to-write plain text format, then
+convert it to structurally valid XHTML (or HTML).
+  
+Thus, "Markdown" is two things: (1) a plain text formatting syntax; and (2) a
+software tool, written in Perl, that converts the plain text formatting to
+HTML.  See the Syntax[1] page for details pertaining to Markdown's formatting
+syntax. You can try it out, right now, using the online Dingus.[2]
+
+The overriding design goal for Markdown's formatting syntax is to make it as
+readable as possible.  The idea is that a Markdown-formatted document should
+be publishable as-is, as plain text, without looking like it's been marked up
+with tags or formatting instructions. While Markdown's syntax has been
+influenced by several existing text-to-HTML filters, the single biggest source
+of inspiration for Markdown's syntax is the format of plain text email.
+      
+The best way to get a feel for Markdown's formatting syntax is simply to look
+at a Markdown-formatted document.  For example, you can view the Markdown
+source for the article text on this page here:
+  http://daringfireball.net/projects/markdown/index.text
+    
+(You can use this ".text" suffix trick to view the Markdown source for the
+content of each of the pages in this section, e.g. the Syntax[1] and License[3]
+pages.)
+
+Markdown is free software, available under a BSD-style open source license.
+See the License[3] page for more information.
+
+daringfireball.net/projects/markdown/
+
+
+Markdown allows you to add a bit of text markup, like hyperlinks, bold/italics,
+or to indicate code with a monospace font.  Markdown is easily converted to
+html for viewing in a web browser, and GitHub will do this for you
+automatically.
+-- kbroman.org/github_tutorial/pages/init.html
+
+PDF
+===
+pandoc looks promising for markdown conversion to pdf:
+
+packages:
+  pandoc - general markup converter
+  pandoc-data - general markup converter - data files
+
+
+
+Links
+=====
+[1] Syntax
+http://daringfireball.net/projects/markdown/syntax
+
+[2] Dingus
+http://daringfireball.net/projects/markdown/dingus
+
+[3] License
+http://daringfireball.net/projects/markdown/license.text
+
+Markdown
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Markdown
+
+Markdown home
+by John Gruber
+http://daringfireball.net/projects/markdown/
+
+Start a new git repository
+http://kbroman.org/github_tutorial/pages/init.html
+
+What are .md files?
+http://superuser.com/questions/310220/what-are-md-files
+
